@@ -12,3 +12,11 @@ pip install -r requirements.txt --user
 cd /path/to/thonny/
 PYTHONPATH=/path/to/thonny-testplugin/ python -m thonny
 ```
+
+## License
+
+This project is using a third party project.
+
+| Name   | Website            | License |
+| ------ | ------------------ | ------- |
+| thonny | https://thonny.org | MIT     |
